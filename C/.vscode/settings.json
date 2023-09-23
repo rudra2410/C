@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "2.C": "cpp",
+        "4.C": "cpp",
+        "5.C": "cpp",
+        "stdio.h": "c",
+        "17.C": "cpp",
+        "20.C": "cpp",
+        "21.C": "cpp",
+        "P2.C": "cpp",
+        "P5.C": "cpp",
+        "P8.C": "cpp",
+        "P9.C": "cpp",
+        "P11.C": "cpp",
+        "P12.C": "cpp",
+        "P13.C": "cpp",
+        "P14.C": "cpp",
+        "P15.C": "cpp",
+        "P17.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

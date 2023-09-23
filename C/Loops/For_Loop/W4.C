@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <conio.h>
+
+void main()
+{
+	int i=1,n;
+	clrscr();
+
+	printf("ENter the value =");
+	scanf("%d",&n);
+
+	while(n >= i)
+	{
+	printf("%d ",n);
+	n--;
+	}
+	getch();
+}
